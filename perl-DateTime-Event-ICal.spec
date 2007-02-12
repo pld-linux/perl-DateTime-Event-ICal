@@ -6,7 +6,7 @@
 %define	pdir	DateTime
 %define	pnam	Event-ICal
 Summary:	DateTime::Event::ICal - Perl DateTime extension for computing rfc2445 recurrences
-Summary(pl.UTF-8):   DateTime::Event::ICal - rozszerzenie DateTime o obliczanie rekurencji rfc2445
+Summary(pl.UTF-8):	DateTime::Event::ICal - rozszerzenie DateTime o obliczanie rekurencji rfc2445
 Name:		perl-DateTime-Event-ICal
 Version:	0.09
 Release:	2
