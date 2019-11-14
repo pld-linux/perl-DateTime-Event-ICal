@@ -8,13 +8,13 @@
 Summary:	DateTime::Event::ICal - Perl DateTime extension for computing rfc2445 recurrences
 Summary(pl.UTF-8):	DateTime::Event::ICal - rozszerzenie DateTime o obliczanie rekurencji rfc2445
 Name:		perl-DateTime-Event-ICal
-Version:	0.10
+Version:	0.13
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-authors/id/F/FG/FGLOCK/DateTime-Event-ICal-%{version}.tar.gz
-# Source0-md5:	a32f85ab15c48a813cbed3ee152cccbf
+# Source0-md5:	cc7fc1f939c41c3c6e25b349917fbcdc
 URL:		http://search.cpan.org/dist/DateTime-Event-ICal/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
